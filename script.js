@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Isso é assustador!",
-                afirmacao: "afirmacao"
+                afirmacao: no começo era uma novidade
             },
             {
                 texto: "Isso é maravilhoso!",
